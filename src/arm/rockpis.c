@@ -1,6 +1,6 @@
 /*
  * Author: zzl <zzl@radxa.com>
- * Copyright (c) 2020 Vamrs Corporation.
+ * Copyright (c) Radxa Limited.
  *
  * SPDX-License-Identifier: MIT
  */
